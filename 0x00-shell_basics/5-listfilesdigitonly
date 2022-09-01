@@ -1,1 +1,3 @@
+#!/bin/bash
 Display current directory contents with long format
+ls -l
