@@ -1,1 +1,1 @@
-Hidding files task
+Display current directory contents with long format
