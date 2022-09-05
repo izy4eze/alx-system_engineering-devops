@@ -9,3 +9,4 @@ Write a shell script that creates a file named exactly containing the text Best 
 Write a script that duplicates the last line of the file iacta
 Write a shell script that creates a file named exactly
 Write a script that deletes all the regular files
+Write a script that deletes all the regular files (not the directories
