@@ -6,3 +6,4 @@ Display the first 10 lines of a file
 Write a script that displays the third line of the file iacta
 Write a shell script that creates a file named exactly  containing the text Best School ending by a new line.
 Write a shell script that creates a file named exactly containing the text Best School ending by a new line.
+Write a script that duplicates the last line of the file iacta
